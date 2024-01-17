@@ -1,2 +1,4 @@
 # DiscordEmojis
-Discord emojis I've made for various servers
+Discord emojis from various servers. Uploading so it's available to everyone if they want them.
+
+Credit to the following people for artwork: alex-r-t (rainbow_heart), ok reza (deluge_rainbow), ilovesteak (this), percussijan (dellycat), hainezee (pixel_logo), noisycomputer (black flag synthstrom audible sticker), Koka Nikoladze (deluge hug emoji), laikrodiz (Deluge Figma Template), litui (alwaysmorestickers, void your warranty). Probably missed a lot of names, but mostly I just took media I found around and turned it into emojis and stickers. A lot of the crow server emojis were from norns scripts of the same name! Artwork credit goes to the authors of the scritps of the same name!
